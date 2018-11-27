@@ -1,0 +1,32 @@
+(a)                                        960       970
+                                           |         | 
+SYMPSBANCRF                              AATCGTGCTGATCTAGGWATGG     
+JX094320 Breviolum minutum               AATCGTGCTGATCTAGGTATGG
+AJ884898 Breviolum sp.                   AATCGTGCTGATCTAGGTATGG
+AJ884899 Cladocopium sp                  AATCGTGCTGATCTAGGTATGG
+HG515017 Cladocopium sp. type C3         AATCGTGCTGATCTAGGTATGG
+JQ003851 Durusdinium trenchii            AATCGTGCTGATCTAGGTATGG
+MF538816 Gerakladium endoclionum         AATCGTGCTGATCTAGGTATGG
+MF538810 Gerakladium spongiolum          AATCGTGCTGATCTAGGTATGG
+AB456560 Symbiodinium microadriaticum    AATCGTGCTGACCTAGGAATGG
+AY160084 Symbiodinium sp.                AATCGTGCTGACCTAGGAATGG
+AJ884897 Symbiodinium sp.                AATCGTGCTGATCTAGGAATGG
+
+(b)                                        60        70 
+                                           |         | 
+SYMPSBANCRR (reverse complement)         CTATCCACAACAAATCGTCTC
+JX094320 Breviolum minutum               CTATCCACAACAAATCGTCTC
+AJ884898 Breviolum sp.                   CTATCCACAACAAATCGTCTC
+AJ884899 Cladocopium sp.                 CTATCCACAACAAATCGTCTC
+HG515017 Cladocopium sp. type C3         CTATCCACAACAAATCGTCTC
+MF538816 Gerakladium endoclionum         CTATCCACAACAAATCGTCTC
+MF538810 Gerakladium spongiolum          CTATCCACAACAAATCGTCTC
+AB456560 Symbiodinium microadriaticum    CTATCCACAACAAATCGTCTC
+AY160084 Symbiodinium sp.                CTATCCACAACAAATCGTCTC
+AJ884897 Symbiodinium sp.                CTATCCACAACAAATCGTCTC
+
+
+Alignments of primer bind regions for universal psbAncr primers. 
+Numbered annotations are relative positions from the beginning of the
+coding region in the reference sequence HG515017. 
+No reverse primer bind reference was available for Durusdinium trenchii.
