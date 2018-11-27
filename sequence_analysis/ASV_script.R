@@ -5,7 +5,8 @@ library(insect)
 ## set working directory
 ## sequences should be stored in subdirectory named 'seqs'
 ## create new directory 'dada2' containing new directory 'fastq'
-## raw data available from open science framework (OSF) identifier ###
+## raw data available from open science framework (OSF) identifier
+## https://osf.io/qexa8/
 fpath <- "seqs/FASTQ_Generation_2017-11-28_18_33_52Z-64084105/"
 samps <- dir(fpath)
 ## Took ~ 24h to write out FASTQ files with primers trimmed
